@@ -2,7 +2,7 @@
 
 La convocatoria de propuestas para pláticas en los eventos bimensuales de HorchataJS es completamente abierta a quien quiera participar. La plática debe ser acerca de Javascript o temas relacionados a su uso, cualquier experiencia o historia interesante es bienvenida.
 
-- Pláticas HorchataJS 101
+## Pláticas HorchataJS 101
 - Una plática dura entre 15 y 20 minutos máximo.
 - Después de la presentación hay espacio para 3 o 4 preguntas breves.
 - Cada plática propone una guía de conocimientos previos que recomendamos leer antes del evento.
