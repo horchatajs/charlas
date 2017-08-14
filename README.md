@@ -11,7 +11,7 @@ La convocatoria de propuestas para pláticas en los eventos bimensuales de Horch
 
 #### 1. Crea un issue con el tema que quieres compartir (o elige uno disponible)
 
-Antes que nada, muchas gracias por tu interés en compartir una plática, nos alegra mucho que te animes a compartir con la comunidad. Para comenzar el proceso, debes entrar en nuestro repositorio y abrir un issue con el tema que quieres compartir. El título de tu issue debe ser el título de tu charla y el contenido debe de explicar sobre qué vas a hablar y porque es importante compartirlo.
+Antes que nada, muchas gracias por tu interés en compartir una plática, nos alegra mucho que te animes a compartir con la comunidad. Para comenzar el proceso, debes entrar en nuestro repositorio y [abrir un issue](https://github.com/HorchataJS/platicas/issues) con el tema que quieres compartir. El título de tu issue debe ser el título de tu charla y el contenido debe de explicar sobre qué vas a hablar y porque es importante compartirlo.
 
 En el caso de no tener algo en mente, también puedes tomar alguno de los temas propuestos y desarrollarlo. La idea no tiene que ser detallada y si tienes alguna duda puedes contactarnos en twitter o escribirnos a horchatajs@gmail.com
 
