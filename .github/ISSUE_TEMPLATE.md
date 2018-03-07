@@ -6,4 +6,4 @@
 
 **Email (si no está en el perfil de github):**
 
-**Tipo:** lightning talk (5/10 minutos) | corta duración (20 minutos) | larga duración (40 minutos)
+**Tipo:** lightning talk (15 minutos) | corta duración (25 minutos) | larga duración (40 minutos)
