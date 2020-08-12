@@ -2,6 +2,8 @@
 
 La convocatoria de propuestas para charlas en los eventos presenciales o virtuales es completamente abierta a quien quiera participar. La charla debe ser acerca de Javascript, tecnologías web o temas relacionados al área, cualquier experiencia, proyecto o historia interesante es bienvenida.
 
+Podés ver el archivo de charlas anteriores [aquí](https://github.com/horchatajs/charlas/edit/master/ARCHIVE.md).
+
 ## Charlas HorchataJS 101
 - Una charla dura entre 15 y 45 minutos máximo.
 - Después de la presentación hay espacio para 3 o 4 preguntas breves.
